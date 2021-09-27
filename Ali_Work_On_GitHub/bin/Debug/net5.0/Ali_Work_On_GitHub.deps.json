@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ali_Work_On_GitHub/1.0.0": {
+        "runtime": {
+          "Ali_Work_On_GitHub.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ali_Work_On_GitHub/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

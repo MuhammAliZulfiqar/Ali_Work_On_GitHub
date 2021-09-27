@@ -1,0 +1,15 @@
+/Users/mac/Desktop/Ali_Work_On_GitHub/bin/Debug/net5.0/Ali_Work_On_GitHub.deps.json
+/Users/mac/Desktop/Ali_Work_On_GitHub/bin/Debug/net5.0/Ali_Work_On_GitHub.runtimeconfig.json
+/Users/mac/Desktop/Ali_Work_On_GitHub/bin/Debug/net5.0/Ali_Work_On_GitHub.runtimeconfig.dev.json
+/Users/mac/Desktop/Ali_Work_On_GitHub/bin/Debug/net5.0/Ali_Work_On_GitHub.dll
+/Users/mac/Desktop/Ali_Work_On_GitHub/bin/Debug/net5.0/ref/Ali_Work_On_GitHub.dll
+/Users/mac/Desktop/Ali_Work_On_GitHub/bin/Debug/net5.0/Ali_Work_On_GitHub.pdb
+/Users/mac/Desktop/Ali_Work_On_GitHub/obj/Debug/net5.0/Ali_Work_On_GitHub.csproj.AssemblyReference.cache
+/Users/mac/Desktop/Ali_Work_On_GitHub/obj/Debug/net5.0/Ali_Work_On_GitHub.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/Ali_Work_On_GitHub/obj/Debug/net5.0/Ali_Work_On_GitHub.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Ali_Work_On_GitHub/obj/Debug/net5.0/Ali_Work_On_GitHub.AssemblyInfo.cs
+/Users/mac/Desktop/Ali_Work_On_GitHub/obj/Debug/net5.0/Ali_Work_On_GitHub.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Ali_Work_On_GitHub/obj/Debug/net5.0/Ali_Work_On_GitHub.dll
+/Users/mac/Desktop/Ali_Work_On_GitHub/obj/Debug/net5.0/ref/Ali_Work_On_GitHub.dll
+/Users/mac/Desktop/Ali_Work_On_GitHub/obj/Debug/net5.0/Ali_Work_On_GitHub.pdb
+/Users/mac/Desktop/Ali_Work_On_GitHub/obj/Debug/net5.0/Ali_Work_On_GitHub.genruntimeconfig.cache
